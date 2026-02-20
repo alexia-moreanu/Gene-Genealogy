@@ -1,18 +1,4 @@
 # Gene-Genealogy
-Implemented local and global optimization algorithms to reconstruct genealogical relationships between mutated DNA sequences.
-1. Problem Definition
-
-Given a set of mutated DNA sequences, the goal of this project is to reconstruct their genealogy — identifying grandparent, parent, and child relationships — using algorithmic reasoning.
-
-The challenge is to infer evolutionary structure purely from sequence similarity, and to compare how different algorithmic strategies affect the inferred genealogy.
-
-⸻
-
-2. Solution Specification
-Here is a clean, well-formatted Markdown README you can paste directly into GitHub.
-Just replace the VIDEO_LINK_X placeholders with your Loom links.
-
-⸻
 
 🧬 Decoding the Relationship Between Genes
 
