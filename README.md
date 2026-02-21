@@ -63,10 +63,10 @@ This approach evaluates the genealogy holistically, prioritizing overall consist
 
 ---
 
-## 🎥 Project Walkthrough Videos
+### 🎥 Project Walkthrough Videos
 
-- 🎥 **[Video 1]([url](https://www.loom.com/share/52436fdb527441778123f5f3994ac6f1)) – Local vs Global Strategy Explanation**
-- 🎥 **[Video 2]([url](https://www.loom.com/share/9771c7fa796d45159f990d32a9425a25)) – Mutation Probability Estimation**
+🎥 [Local vs Global Strategy Explanation](https://www.loom.com/share/52436fdb527441778123f5f3994ac6f1)  
+🎥 [Mutation Probability Estimation](https://www.loom.com/share/9771c7fa796d45159f990d32a9425a25)
 
 ---
 
