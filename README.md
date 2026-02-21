@@ -1,12 +1,12 @@
 # Gene-Genealogy
 
-🧬 Decoding the Relationship Between Genes
+#🧬 Decoding the Relationship Between Genes
 
 Reconstructing genealogy relationships between mutated DNA sequences using local and global algorithmic strategies.
 
 ⸻
 
-📌 Problem Definition
+#📌 Problem Definition
 
 Given a set of mutated gene sequences, the goal of this project is to reconstruct their genealogy (grandparent → parent → child relationships) using only sequence similarity.
 
@@ -14,7 +14,7 @@ The challenge is to determine how different algorithmic strategies influence the
 
 ⸻
 
-⚙️ Solution Specification
+#⚙️ Solution Specification
 
 I implement two distinct approaches:
 
@@ -28,7 +28,7 @@ This approach prioritizes efficiency and immediate proximity.
 
 ⸻
 
-🔹 Global Strategy (Optimization-Based)
+#🔹 Global Strategy (Optimization-Based)
 	•	Compute global alignment scores using Needleman–Wunsch dynamic programming
 	•	Convert alignment scores into distances
 	•	Evaluate all valid tree configurations
